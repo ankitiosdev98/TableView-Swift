@@ -1,5 +1,5 @@
 ## TableView-Example
-Simple UITableView application with Swift(5.0) Language.
+Simple `UITableView` application with Swift Language for using in iOS app.
 
 
 
